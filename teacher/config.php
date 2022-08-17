@@ -1,9 +1,9 @@
 <?php
 session_start();
 
-define('API_KEY','cKP0fj0MTE-sffPk8yd_ow');
-define('API_SECRET','XgbPlZsJnYYUkacvGCz8iDr6SVZjSZHkcihp');
-define('EMAIL_ID','rushikeshneve.rvn17@gmail.com');
+define('API_KEY','');
+define('API_SECRET','');
+define('EMAIL_ID','');
 ?>
 <?php
 $dbhost = 'localhost';
